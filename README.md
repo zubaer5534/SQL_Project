@@ -16,7 +16,9 @@ Following Task Completed:
 
 Dashboard in Snowflake:
 
-![Screenshot 2023-07-19 182203](https://github.com/zubaer5534/SQL_Project/assets/132324453/4f5b480d-a4c5-40af-b40a-448c36b4c9ee)
+![Screenshot 2023-07-19 182203](https://github.com/zubaer5534/SQL_Project/assets/132324453/802e1d23-a8ec-41c3-8576-674c3dd722ef)
+
+![Screenshot 2023-07-19 181143](https://github.com/zubaer5534/SQL_Project/assets/132324453/600bf21c-1a0a-4d8d-ab3a-5908afc591e0)
 
 
-![Screenshot 2023-07-19 181143](https://github.com/zubaer5534/SQL_Project/assets/132324453/534b6545-31a6-490b-a635-a0161e09aa59)
+
