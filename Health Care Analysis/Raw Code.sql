@@ -490,4 +490,4 @@ final AS (
 SELECT * FROM final
 UNION ALL
 SELECT "Age Group" as Characteristic, " " as Male, "" as Female
-ORDER BY Characteristic ASC
+ORDER BY Characteristic ASC;
